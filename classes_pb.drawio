@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T09:36:47.496Z" agent="5.0 (X11)" etag="eXYUsIHzKcW_U3Sqrcmm" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T09:41:51.195Z" agent="5.0 (X11)" etag="tzZVNP77-b8haKuESXxj" version="15.1.0" type="github">
   <diagram id="9QKRAoIppM4X6ULny6yl" name="Page-1">
     <mxGraphModel dx="1355" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="345" y="210" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2g2pWGXNdm2MI_xn0j62-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="240" height="140" as="geometry" />
+          <mxGeometry x="230" y="270" width="310" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2g2pWGXNdm2MI_xn0j62-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Problèmes d&#39;optimisation combinatoire&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="110" height="50" as="geometry" />
